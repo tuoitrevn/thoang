@@ -775,6 +775,10 @@ div#sticky {
     float: none;
     margin-right: 0;
 }
+  .boxes-two .sttboxs:last-child {
+    margin-right: 0;
+    width: auto;
+}
   .blb, .blb-v2 {
     width: auto;
     margin-bottom: 5px;
